@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/drinkwatergoal/static/css/main.e4a17f30.css",
+    "main.css": "/drinkwatergoal/static/css/main.9cb05ba7.css",
     "main.js": "/drinkwatergoal/static/js/main.dc47d5f6.js",
     "static/js/787.9e995606.chunk.js": "/drinkwatergoal/static/js/787.9e995606.chunk.js",
     "index.html": "/drinkwatergoal/index.html",
-    "main.e4a17f30.css.map": "/drinkwatergoal/static/css/main.e4a17f30.css.map",
+    "main.9cb05ba7.css.map": "/drinkwatergoal/static/css/main.9cb05ba7.css.map",
     "main.dc47d5f6.js.map": "/drinkwatergoal/static/js/main.dc47d5f6.js.map",
     "787.9e995606.chunk.js.map": "/drinkwatergoal/static/js/787.9e995606.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4a17f30.css",
+    "static/css/main.9cb05ba7.css",
     "static/js/main.dc47d5f6.js"
   ]
 }
